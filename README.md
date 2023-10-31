@@ -1,4 +1,4 @@
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 6 & 7 - CYOAPI Part 2 and 3: RecyclerView Edition & Styling
 
 Submitted by: **Aimen Moten**
 
@@ -19,6 +19,11 @@ The following REQUIRED features are completed:
 - [X] Make an API call to an API of your choice using AsyncHTTPClient
 - [X] Implement a RecyclerView to display a list of entries from the API
 - [X] Display at least three (3) pieces of data for each RecyclerView item
+- [X] App contains a RecyclerView that displays a list of scrollable data
+- [X] App displays at least two (2) pieces of data for each RecyclerView item
+- [X] Use a downloadable font with custom color and size
+- [X] Modify the theme of the app in `themes.xml`
+- [X] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
@@ -29,5 +34,5 @@ The following STRETCH features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
+[Kapture 2023-10-30 at 21.25.25.gif.zip](https://github.com/aimen-moten/nasa-and101-hw6/files/13211055/Kapture.2023-10-30.at.21.25.25.gif.zip)
 
